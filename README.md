@@ -1,6 +1,13 @@
-# converbit
+# Deskripsi
 
 > Konveri Bitcoin dengan API harga pasar blockchain.com
+
+# Peralatan
+
+- NuxtJS (https://id.nuxtjs.org/)
+- BootstrapVue (https://bootstrap-vue.js.org/)
+- AXIOS (https://axios.nuxtjs.org/)
+- API blockchain.com (https://www.blockchain.com/id/api/exchange_rates_api)
 
 # Screenshot
 
